@@ -1,3 +1,3 @@
 # sololearn
 
-Time Converter - Program.java
+Starter code for Sololearn Java course
